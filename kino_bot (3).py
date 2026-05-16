@@ -8,8 +8,8 @@ from telegram.ext import (
 )
 
 # ===================== SOZLAMALAR =====================
-TOKEN = "BU_YERGA_TOKENINGIZNI_QOYING"
-ADMIN_ID = 123456789  # @userinfobot dan o'z ID'ingizni oling
+TOKEN = "8439179943:AAFkZK0nuXIN3wflH71MIM61WYawmq-nVEg"
+ADMIN_ID = 5826246848  # @userinfobot dan o'z ID'ingizni oling
 DB_FILE = "kinolar.json"
 # ======================================================
 
